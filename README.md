@@ -16,4 +16,5 @@
     
     console.log("Number in square:", a) 
     console.log("Number in square:",b) 
-    console.log("Number in cub:",c)# function
+    console.log("Number in cub:",c) 
+    
